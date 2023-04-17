@@ -9,6 +9,7 @@ packages = [{include = "cuddly_train"}]
 [tool.poetry.dependencies]
 python = "^3.9"
 pydub = "^0.25.1"
+mutagen = "^1.46.0"
 
 
 [build-system]
